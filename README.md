@@ -1,2 +1,14 @@
-# Emito-Mate-
-EmotiMate is a prompt-engineered, emotionally intelligent AI agent designed to hold your hand when your mind is loud and your heart is heavy. It’s not just a chatbot — it’s your inner clarity guide, journaling partner, and gentle mirror during moments of emotional chaos, life reinvention, or identity confusion.
+# EmotiMate-AI
+
+**EmotiMate** is an emotionally intelligent AI agent created entirely through prompt engineering — no code required. It acts as a wise, gentle, and non-judgmental emotional clarity guide.
+
+> “Designed for moments of confusion, reinvention, and emotional overwhelm.”
+
+---
+
+### 🌟 Features:
+- Journaling Mode 📝: Self-reflective conversations
+- Fight-Back Mode 🔥: Witty, emotionally aware responses when users vent
+- Heartbreak, Flirty, Dreamer, Career, and Clarity Modes
+
+Created with love by **Neha** — Prompt Engineer, Emotion Designer, Clarity Catalyst 💫

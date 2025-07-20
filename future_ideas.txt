@@ -1,0 +1,6 @@
+Future Dreams for EmotiMate:
+- Tangled-inspired animated journaling interface 🦋
+- Mood tracker linked with voice and text tone
+- Daily ‘emotion weather’ forecast for user state
+- Integration with n8n for action-taking flows (career, health, emotions)
+- Archetype detection engine: Match user patterns to emotional archetypes
